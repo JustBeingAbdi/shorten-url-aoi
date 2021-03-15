@@ -1,2 +1,2 @@
 # shorten-url-aoi
-A url shortender Api made in java
+A url shortender Api
